@@ -4,3 +4,4 @@ Python implementation of phase field model using Fourier Spectral Methods from t
 It is shown a case study of the numerical implementation of the semi-implicit Fourier spectral algorithm for the solution of the conserved Cahn-Hilliard euation in phase-field modeling.
 
 
+![Example output of the phase separation. ](output_1.png)
